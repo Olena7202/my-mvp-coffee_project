@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1773320294352" clover="3.2.0">
+  <project timestamp="1773320294352" name="All files">
+    <metrics statements="23" coveredstatements="15" conditionals="14" coveredconditionals="6" methods="17" coveredmethods="8" elements="54" coveredelements="29" complexity="0" loc="23" ncloc="23" packages="6" files="6" classes="6"/>
+    <package name="components.Header">
+      <metrics statements="3" coveredstatements="3" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <file name="Header.jsx" path="C:\Users\olena\coffee-shop\src\components\Header\Header.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.ProductCard">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="ProductCard.jsx" path="C:\Users\olena\coffee-shop\src\components\ProductCard\ProductCard.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.RandomCoffee">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="RandomCoffee.jsx" path="C:\Users\olena\coffee-shop\src\components\RandomCoffee\RandomCoffee.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.WhyUs">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="WhyUs.jsx" path="C:\Users\olena\coffee-shop\src\components\WhyUs\WhyUs.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="data">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="product.js" path="C:\Users\olena\coffee-shop\src\data\product.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.CartPage">
+      <metrics statements="16" coveredstatements="8" conditionals="8" coveredconditionals="1" methods="12" coveredmethods="3"/>
+      <file name="CartPage.jsx" path="C:\Users\olena\coffee-shop\src\pages\CartPage\CartPage.jsx">
+        <metrics statements="16" coveredstatements="8" conditionals="8" coveredconditionals="1" methods="12" coveredmethods="3"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="30" count="6" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="42" count="6" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
