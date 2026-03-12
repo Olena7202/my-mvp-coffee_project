@@ -48,3 +48,4 @@ React + Vite проєкт для кавового сайту з каталого
 ```bash
 npm install
 npm run dev
+"# mvp_coffee_shop" 
