@@ -7,13 +7,13 @@
 
 .top-offers {
   padding: 60px 80px;
-  background: #111;          /* темний фон */
-  color: #fff;               /* білий текст */
+  background: #111;        
+  color: #fff;               
   text-align: center;
 }
 
 .top-offers h2 {
   font-size: 2rem;
   margin-bottom: 40px;
-  color: #e6c089;            /* золотистий акцент */
+  color: #e6c089;           
 }

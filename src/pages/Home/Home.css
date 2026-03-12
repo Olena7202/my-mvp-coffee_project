@@ -12,7 +12,6 @@
   padding: 80px;
 }
 
-/* затемнення */
 .home::before {
   content: "";
   position: absolute;
@@ -20,9 +19,8 @@
   background: rgba(0, 0, 0, 0.4);
 }
 
-/* щоб контент був поверх затемнення */
 .hero-content {
-  position: relative;          /* ВАЖЛИВО */
+  position: relative;        
   margin-left: 80px;
   max-width: 520px;
   color: white;

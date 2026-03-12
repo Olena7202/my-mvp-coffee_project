@@ -1,17 +1,17 @@
 .why-us {
   text-align: center;
   padding: 60px 20px;
-  background: linear-gradient(135deg, #1d1d1d, #101010); /* той самий темний фон */
+  background: linear-gradient(135deg, #1d1d1d, #101010); 
   border-radius: 12px;
   margin: 50px auto;
   max-width: 1430px;
-  color: #fff; /* світлий текст */
+  color: #fff; 
 }
 
 .why-title {
   font-size: 32px;
   margin-bottom: 40px;
-  color: #e6c089; /* золотистий акцент */
+  color: #e6c089; 
 }
 
 .why-cards {
@@ -22,7 +22,7 @@
 }
 
 .why-card {
-  background: rgba(255,255,255,0.05); /* напівпрозорий блок на темному фоні */
+  background: rgba(255,255,255,0.05); 
   border-radius: 12px;
   padding: 30px;
   width: 300px;
@@ -38,13 +38,13 @@
   width: 60px;
   height: 60px;
   margin-bottom: 20px;
-  filter: brightness(0) invert(1); /* іконки світлі на темному фоні */
+  filter: brightness(0) invert(1); 
 }
 
 .why-card h3 {
   font-size: 20px;
   margin-bottom: 10px;
-  color: #c59d5f; /* золотистий акцент */
+  color: #c59d5f; 
 }
 
 .why-card p {

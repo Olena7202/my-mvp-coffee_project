@@ -2,8 +2,7 @@
   max-width: 1300px;
   margin: 50px auto;
   padding: 40px 20px;
-  background: linear-gradient(135deg, #131313, #0a0a0a); /* той самий фон як у сайті */
-  border-radius: 12px;
+  background: linear-gradient(135deg, #131313, #0a0a0a);
   box-shadow: 0 12px 28px rgba(0,0,0,0.6);
   color: #e6c089;
 }
@@ -12,5 +11,5 @@
   text-align: center;
   font-size: 36px;
   margin-bottom: 40px;
-  color: #e6c089; /* золотистий акцент */
+  color: #e6c089;
 }

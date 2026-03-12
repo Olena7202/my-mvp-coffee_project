@@ -2,10 +2,10 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: url("/coffee_day.png"); /* світліший фонова картинка */
+  background: url("/coffee_day.png"); 
   background-size: cover;
   background-position: center;
-  color: #111; /* темний текст на світлому фоні */
+  color: #111; 
   border-radius: 12px;
   padding: 50px;
   max-width: 1370px;
@@ -16,13 +16,12 @@
 .coffee-info {
   flex: 1;
   padding-right: 40px;
-  /* прибрали чорний квадрат */
   padding: 20px;
 }
 
 .coffee-title {
   font-size: 20px;
-  color: #c59d5f; /* золотистий акцент */
+  color: #c59d5f; 
   margin-bottom: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -35,7 +34,7 @@
 
 .coffee-description {
   font-size: 17px;
-  color: #fff; /* темніший текст */
+  color: #fff; 
   margin-bottom: 12px;
 }
 
